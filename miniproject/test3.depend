@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1370097518 source:/home/administrateur/test3/main.cpp
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<math.h>
+	<dirent.h>
+	<sys/stat.h>
+
